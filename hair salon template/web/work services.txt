@@ -1,0 +1,99 @@
+   <!-- work-services -->
+	<div class="w3l-services-agile" >
+		<div class="container">
+			<div class="title-agileits">
+                 <h3 class="w3l-agile">Our Services</h3> 
+			</div>
+
+		</div>
+		<div class="w3layouts_work_grids">
+			<section class="slider">
+				<div class="flexslider">
+					<ul class="slides">
+						<li>
+							<div class="w3layouts_work_grid_left">
+								<img src="images/5.jpg" alt=" " class="img-responsive" />
+								<div class="w3layouts_work_grid_left_pos">
+									<img src="images/6.jpg" alt=" " class="img-responsive" />
+								</div>
+							</div>
+							<div class="w3layouts_work_grid_right">
+								<h4>Professional Barber Shop</h4>
+								<h5>Hair Salon Services</h5>
+								<p>Sed tempus vestibulum lacus blandit faucibus. 
+									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
+									at imperdiet urna. </p>
+							</div>
+							<div class="clearfix"> </div>
+						</li>
+						<li>
+							<div class="w3layouts_work_grid_left">
+								<img src="images/5.jpg" alt=" " class="img-responsive" />
+								<div class="w3layouts_work_grid_left_pos">
+									<img src="images/9.jpg" alt=" " class="img-responsive" />
+								</div>
+							</div>
+							<div class="w3layouts_work_grid_right">
+								<h4>Looking a beautiful style</h4>
+								<h5>Hair and beard cutting expert</h5>
+								<p>Duis vitae faucibus quam. Sed tempus vestibulum lacus blandit faucibus. 
+									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
+									at imperdiet urna. </p>
+							</div>
+							<div class="clearfix"> </div>
+						</li>
+						<li>
+							<div class="w3layouts_work_grid_left">
+								<img src="images/5.jpg" alt=" " class="img-responsive" />
+								<div class="w3layouts_work_grid_left_pos">
+									<img src="images/7.jpg" alt=" " class="img-responsive" />
+								</div>
+							</div>
+							<div class="w3layouts_work_grid_right">
+								<h4>Professional Barber Shop</h4>
+								<h5>Hair Salon Services</h5>
+								<p>Sed tempus vestibulum lacus blandit faucibus. 
+									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
+									at imperdiet urna. </p>
+							</div>
+							<div class="clearfix"> </div>
+						</li>
+						<li>
+							<div class="w3layouts_work_grid_left">
+								<img src="images/5.jpg" alt=" " class="img-responsive" />
+								<div class="w3layouts_work_grid_left_pos">
+									<img src="images/8.jpg" alt=" " class="img-responsive" />
+								</div>
+							</div>
+							<div class="w3layouts_work_grid_right">
+								<h4>Looking a beautiful style</h4>
+								<h5>Hair and beard cutting expert</h5>
+								<p>Duis vitae faucibus quam. Sed tempus vestibulum lacus blandit faucibus. 
+									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
+									at imperdiet urna. </p>
+							</div>
+							<div class="clearfix"> </div>
+						</li>
+						<li>
+							<div class="w3layouts_work_grid_left">
+								<img src="images/5.jpg" alt=" " class="img-responsive" />
+								<div class="w3layouts_work_grid_left_pos">
+									<img src="images/9.jpg" alt=" " class="img-responsive" />
+								</div>
+							</div>
+							<div class="w3layouts_work_grid_right">
+								<h4>Professional Barber Shop</h4>
+								<h5>Hair Salon Services</h5>
+								<p>Sed tempus vestibulum lacus blandit faucibus. 
+									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
+									at imperdiet urna. </p>
+							</div>
+							<div class="clearfix"> </div>
+						</li>
+					</ul>
+				</div>
+			</section>
+			
+		</div>	
+	</div>
+<!-- //work -->

@@ -1,0 +1,70 @@
+	<!-- about-bottom -->
+	<div class="price" id="price">
+	    <div class="col-md-6 w3l_about_bottom_right">
+			<div class="title-agileits1">
+                    <h3>Price List</h3> 
+			   </div>
+			<p>Here at Unity, we promise high quality service for a reasonable price.</p>
+					<div class="price-list">
+								<div class="wthree-grids-price">
+									<h4>Women's Haircut</h4>
+									<h5> $30-42</h5>
+									<div class="clearfix"> </div>
+								</div>
+									<div class="wthree-grids-price">
+									<h4> Men's Haircut</h4>
+									<h5> $17-25</h5>
+									<div class="clearfix"> </div>
+								</div>
+								<div class="wthree-grids-price">
+									<h4>Children's Haircut (12 and under)</h4>
+									<h5> $15-20</h5>
+									<div class="clearfix"> </div>
+								</div>
+								<div class="wthree-grids-price">
+									<h4>Blow Dry and Style</h4>
+									<h5> $20-25</h5>
+									<div class="clearfix"> </div>
+								</div>
+								<div class="wthree-grids-price">
+									<h4>Full Color</h4>
+									<h5> $50-62</h5>
+									<div class="clearfix"> </div>
+								</div>
+								<div class="wthree-grids-price">
+									<h4>Partial Foil</h4>
+									<h5> $70-80</h5>
+									<div class="clearfix"> </div>
+								</div>
+									<div class="wthree-grids-price">
+									<h4> Each Additional Color</h4>
+									<h5> $7 and up</h5>
+									<div class="clearfix"> </div>
+								</div>
+								<div class="wthree-grids-price">
+									<h4>Men's Grey Blending with Cut</h4>
+									<h5> $43 and up</h5>
+									<div class="clearfix"> </div>
+								</div>
+								<div class="wthree-grids-price">
+									<h4>Perm with Cut</h4>
+									<h5> $20-25</h5>
+									<div class="clearfix"> </div>
+								</div>
+								<div class="wthree-grids-price">
+									<h4>Bayalage with Cut</h4>
+									<h5> $82-120</h5>
+									<div class="clearfix"> </div>
+								</div>
+								<div class="wthree-grids-price">
+									<h4>Ombre/Sombre with Cut</h4>
+									<h5> $95-130</h5>
+									<div class="clearfix"> </div>
+								</div>
+							</div>
+		</div>
+		<div class="col-md-6 w3l_about_bottom_left">
+		</div>
+		
+		<div class="clearfix"> </div>
+	</div>
