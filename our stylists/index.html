@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+	<style>
+		.our-experts img{
+			/*display: inline-block;*/
+			float: left;
+			/*width: 10%;*/
+			margin-right: 15px;
+		}
+		ul.our-experts {
+			list-style-type: none;
+			display: inline-block;
+			/*width: 90%;*/
+		}
+		.our-experts ul li{
+			float: left;
+
+		}
+		ul.our-experts li{
+			display: inline;
+		}
+
+		ul.topnav {
+			list-style-type: none;
+		}
+		ul.topnav li {
+			/*float: left;*/ /*alternative display: inline;*/
+			display: inline;
+			margin-left: 2px;
+		}
+
+		.clearfix::after {
+    		content: "";
+    		clear: both;
+    		display: table;
+		}
+
+		.img-responsive {
+			display: block;
+			max-width: 100%;
+			height: auto;
+		}
+
+		.our-experts .content{
+			max-width: 50%;
+			overflow: hidden;
+		}
+		.our-experts h4{
+			margin-top: 5px;
+			margin-bottom: 5px;
+		}
+		/*.our-experts p{
+			margin-top: 0px;
+			padding-top: 0px;
+		}*/
+
+	</style>
+</head>
+<body>
+	<ul class ="topnav">
+		<li><a class="active" href="#">Home</a></li>
+		<li><a href="#">News</a></li>
+		<li><a href="#">Contact</a></li>
+		<li><a href="#">Blah</a></li>
+		<li class ="right"><a href="#">About</a></li>
+	</ul>
+
+	<div class="clearfix"></div>
+
+	<ul class="our-experts">
+	
+		<li>
+			<img class="img-responsive" src="images/team 1.jpg" alt="Jules">
+			<div class="content">
+			<h4>Jules</h4>
+			<p>The owner of Unity Hair Studio, Jules has been doing hair for 12 years. She specializes in creating a hairstyle that works for your ace shape, hair texture, and lifestyle. Some of her favorite services to offer are adding "oomph" to fine, limp hair and choosing a color cheme that compliments your best facial qualities. She also has a lot of experience with curly hair, short styles, and men's hair esign. She is not accepting new clients at this time.</p>
+			</div>
+		</li>
+	</ul>
+
+	<div class="clearfix"></div>
+</body>
+</html>
