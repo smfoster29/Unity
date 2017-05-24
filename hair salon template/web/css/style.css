@@ -928,6 +928,12 @@ h4.side-t-w3l-agile {
     font-weight: 400;
     margin: 0em 0 0.7em 0;
 }
+.our-experts ul{
+  list-style-type: none;
+}
+.our-experts img{
+  display: inline-block;
+}
 /*--slider--*/
 #slider2,
 #slider3 {
