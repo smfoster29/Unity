@@ -53,7 +53,7 @@
 		}
 		
 	.banner-inner {
-	  background: url(../images/1.jpg) no-repeat 0px 0px;
+	  background: url(../images/about2.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
@@ -124,7 +124,9 @@
 	
 }
 @media (max-width:736px){
-
+	.banner-inner {
+		background: url(../images/about2.jpg) no-repeat -100px 0px;
+	}
 }
 @media (max-width:640px){
 	
@@ -140,6 +142,9 @@
 @media (max-width:568px){
 	#demo-1 {
 		min-height: 460px;
+	}
+	.banner-inner {
+		background: url(../images/about2.jpg) no-repeat -200px 0px;
 	}
 }
 @media (max-width:480px){
@@ -157,7 +162,9 @@
 	
 }
 @media (max-width:414px){
-
+	.banner-inner {
+		background: url(../images/about2.jpg) no-repeat -300px 0px;
+	}
 }
 @media (max-width:384px){
 
