@@ -848,6 +848,46 @@ h3.w3l-agile:before,h2.w3l-agile:before  {
     padding: 5em 0;
 }
 /*--//Effect 1--*/
+
+/* our-experts */
+.center-stylists {
+	margin: auto;
+	width: 80%;
+	padding: 10px;
+}
+ul.our-experts {
+	list-style-type: none;
+	margin-bottom: 15px;
+	padding: 15px;
+}
+ul.our-experts li{
+	float: left;
+	max-width: 50%;
+	margin-bottom: 15px;
+}
+.our-experts img{
+	float: left;
+	margin-right: 15px;
+}
+.our-experts h4{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.our-experts .content {
+	margin-right: 15px;
+}
+@media (max-width:750px){
+	.center-stylists {
+		width: 90%;
+	}
+}
+@media (max-width:600px){
+	ul.our-experts li{
+		max-width: 100%;
+	}
+}
+/* //our-experts */
+
 /*-- //special --*/
 .about-wthree {
     padding: 5em 0 /*24em*/0 0px; /*adjusted to get rid of space between welcome and customers say sections*/
