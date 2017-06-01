@@ -1,0 +1,10 @@
+-fix navbar responsiveness
+-open up phone call and maps on click of header info
+-fix spacing on homepage
+-fix responsiveness of footer
+-make header address/appointments/call us more visible
+-fix agileit bar/line
+-clicking on "serivice" drop-down opens services (maybe)
+-fill gallery
+-add back click action on gallery pictures
+-program contact form to actually contact
