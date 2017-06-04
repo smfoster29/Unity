@@ -4,6 +4,7 @@
 -make header address/appointments/call us more visible
 -fix agileit bar/line
 -clicking on "serivice" drop-down opens services (maybe)
+-fix collapsed menu drop down unclickable on mobile
 
 -proof read all content
 -change contact form to email Jules
