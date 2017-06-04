@@ -45,6 +45,11 @@ input[type="submit"],.w3l_header_left ul li a,.related-post-right h4 a,.comments
 	-o-transition: .5s ease-in;
 	-ms-transition: .5s ease-in;
 }
+.contact-content p {
+	width: 50%;
+	margin: auto;
+	padding-top: 15px;
+}
 /*--/model--*/
 .modal-content {
     position: relative;

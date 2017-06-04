@@ -156,17 +156,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             <h2 class="w3l-agile">Contact Us</h2> 
 			             </div>
 									<div class="w3_mail_grids">
-										<form action="#" method="post">
+										<!-- <form action="php/sendContactForm.php" method="post"> -->
+										<form action="php/sendContactForm.php" method="post">
 											<div class="col-md-6 w3_agile_mail_grid">
-													<input type="text" placeholder="Your Name"  required="">
-													<input type="email" placeholder="Your Email" required="">
-													<input type="text" placeholder="Your Phone Number" required="">
-
-												
+													<input type="text" placeholder="Your Name" name="name" id="name" required="">
+													<input type="email" placeholder="Your Email" name="email" id="email" required="">
+													<input type="text" placeholder="Your Phone Number" name="phone" id="phone" required="">
 											</div>
 											<div class="col-md-6 w3_agile_mail_grid">
-												<textarea name="Message" placeholder="Your Message" required=""></textarea>
-												<input type="submit" value="Submit">
+												<textarea placeholder="Your Message" name="message" id="message" required=""></textarea>
+												<input type="submit" name="Submit" value="Send">
 											</div>
 											<div class="clearfix"> </div>
 										</form>
