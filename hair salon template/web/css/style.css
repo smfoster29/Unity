@@ -45,7 +45,7 @@ input[type="submit"],.w3l_header_left ul li a,.related-post-right h4 a,.comments
 	-o-transition: .5s ease-in;
 	-ms-transition: .5s ease-in;
 }
-.contact-content p {
+.contact-content {
 	width: 50%;
 	margin: auto;
 	padding-top: 15px;
@@ -2922,15 +2922,15 @@ section.social ul li {
     padding-right: 0px;
 	margin-right: 0;
 	margin-left: 0;*/
+	margin-left: 15px;
   }
   .inner-header-agile {
-	  margin-left: 15px;
 	  padding-left: 0;
 	  
   }
   ul.nav.navbar-nav {
     /*width: 65%;*/
-	margin: auto;
+	margin: auto;*
 	margin-left: 5px;
 	margin-top: 2em;
   }
@@ -3246,7 +3246,7 @@ section.social ul li {
 	}
 	
 }
-@media (max-width:768pxpx){
+@media (max-width:768px){
 	.newsletter input[type="email"] {
 		padding: 0.8em 1.2em;
 		width: 69%;
@@ -3289,9 +3289,12 @@ section.social ul li {
 	.navbar-default .navbar-nav > li > a { 
 		text-align: center;
 	}
+	.navbar-nav > li > a > span {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
 
 	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
-		
 		background:rgba(0, 0, 0, 0.88);
 		 z-index: 999!important;
 	}
@@ -3311,7 +3314,7 @@ section.social ul li {
 		padding: 0.8em;
 	}
 	.navbar-nav > li {
-		margin: 0;
+		margin: 0px;
 	}
 	ul.nav.navbar-nav {
 		margin-left: 0;
@@ -3348,7 +3351,7 @@ section.social ul li {
 	.navbar-toggle {
 		position: relative;
 		float: right;
-		    padding: 14px 10px;
+		padding: 14px 10px;
 		margin-top: 8px;
 		margin-right: 15px;
 		margin-bottom: 8px;
@@ -3364,7 +3367,7 @@ section.social ul li {
 	.navbar-header h1 {
 		font-size: 1.4em;
 		text-align: left;
-		width: 100%;
+		width: 75%;
 	}
 	.cd-main-header {
 		position: absolute;
@@ -3435,7 +3438,6 @@ section.social ul li {
   .navbar-header h1 {
     font-size: 1.4em;
     text-align: left;
-    width: 100%;
   }
   /*.navbar-header i.fa.fa-scissors {
     top: 21px;

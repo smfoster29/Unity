@@ -1,16 +1,26 @@
--open up phone call and maps on click of header info
--fix spacing on homepage
--fix responsiveness of footer
--make header address/appointments/call us more visible
--fix agileit bar/line
--clicking on "serivice" drop-down opens services (maybe)
--fix collapsed menu drop down unclickable on mobile
 
+**musts**
+-fix agileit bar/line
 -proof read all content
 -change contact form to email Jules
+-remove "other" from drop down options
+-center drop down menu
+-fix drop down menu clickability
+
+**wants**
+-fix spacing on homepage
+-open up phone call and maps on click of header info
+-fix responsiveness of footer
+-make header address/appointments/call us more visible
+
+**low wants**
+-clicking on "serivice" drop-down opens services (maybe)
+
+
 
 -fix navbar responsiveness x
 -program contact form to actually contact x
 -add back click action on gallery pictures x
 -fill gallery x
 -add pictures x
+-fix collapsed menu drop down unclickable on mobile x
