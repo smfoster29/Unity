@@ -753,8 +753,8 @@ a.w3_play_icon1:hover {
     text-align: center;
 }
 .title-agileits h3,.title-agileits h2{
-        display: block;
-       color: #00a4e4;
+	display: block;
+    color: #00a4e4; /*blue text color*/
     font-size: 2.5em;
     position: relative;
     padding-bottom: .5em;
@@ -762,7 +762,7 @@ a.w3_play_icon1:hover {
 
 .title-agileits h3:before,.title-agileits h2:before {
     content: '';
-    background: #212121;
+    background: #212121; /*underline color*/
     height: 1px;
     width: 11%;
     position: absolute;
@@ -771,12 +771,12 @@ a.w3_play_icon1:hover {
 }
 .title-agileits h3:after ,.title-agileits h2:after{
     content: '';
-    background: #fbb034;
+    background: #fbb034; /*gold middle bar color*/
     height: 5px;
     width: 3%;
     position: absolute;
     bottom: -2px;
-    left: /*560px*/50%;
+    left: /*560px*/49%;
 }
 .title-agileits1 h3{
     display: block;
@@ -799,10 +799,10 @@ a.w3_play_icon1:hover {
          content: '';
     background: #00a4e4;
     height: 4px;
-    width: 10%;
+    width: 5%;
     position: absolute;
     bottom: -1px;
-    left: 44%;
+    left: 47%;
 }
 
 h3.w3l-agile:before,h2.w3l-agile:before  {
@@ -2902,13 +2902,13 @@ section.social ul li {
 	.captn-top {
 		padding: 20% 7%;
 	}
-	.title-agileits h3:after, .title-agileits h2:after {
+	/*.title-agileits h3:after, .title-agileits h2:after {
 		height: 5px;
 		width: 3%;
 		position: absolute;
 		bottom: -2px;
 		left: 462px;
-	}
+	}*/
 }
 @media (max-width:1050px){
 	ul.nav.navbar-nav {
@@ -3049,7 +3049,7 @@ section.social ul li {
 		width: 6%;
 		position: absolute;
 		bottom: -2px;
-		left: 341px;
+		left: 47%;
 	}
 	.w3ls-info-about h4 {
       /*margin: 5px;*/
@@ -3408,12 +3408,12 @@ section.social ul li {
 		letter-spacing: 1px;
 		font-size: 0.9em;
 	}
+	
 	.title-agileits h3:after, .title-agileits h2:after {
 		height: 5px;
 		width: 6%;
 		position: absolute;
 		bottom: -2px;
-		left: 323px;
 	}
 	/*.slider-agileits-ab {
 		width: 52%;
@@ -3463,7 +3463,6 @@ section.social ul li {
 		width: 6%;
 		position: absolute;
 		bottom: -2px;
-		left: 290px;
 	}
 	.team-row.agileits-w3layouts {
 		margin-left: 10%;
@@ -3492,7 +3491,6 @@ section.social ul li {
 		width: 6%;
 		position: absolute;
 		bottom: -2px;
-		left: 281px;
 	}
 	.team-row.agileits-w3layouts {
 		margin-left: 9%;
@@ -3553,7 +3551,7 @@ section.social ul li {
 		width: 8%;
 		position: absolute;
 		bottom: -2px;
-		left: 238px;
+		left: 45.5%;
 	}
 	.w3l_about_bottom_left {
 		min-height: 448px;
@@ -3619,7 +3617,6 @@ section.social ul li {
 		width: 8%;
 		position: absolute;
 		bottom: -2px;
-		left: 238px;
 	}
 	.w3l_about_bottom_left {
 		min-height: 448px;
@@ -3673,7 +3670,6 @@ section.social ul li {
 		width: 8%;
 		position: absolute;
 		bottom: -2px;
-		left: 195px;
 	}
 	.slider-agileits-ab {
 		width: 83%;
@@ -3841,7 +3837,7 @@ section.social ul li {
 		width: 11%;
 		position: absolute;
 		bottom: -2px;
-		left: 166px;
+		left: 45.5%;
 	}
 	.baner-info h3 {
 		font-size: 1.4em;
@@ -3984,7 +3980,6 @@ section.social ul li {
 		width: 11%;
 		position: absolute;
 		bottom: -2px;
-		left: 154px;
 	}
 	.blog-left-left i {
 		font-size: 2em;

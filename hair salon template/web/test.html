@@ -1,13 +1,43 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<style>
-body {
-	background-image: url("images/bg-tile.png");
-}
-</style>
+<title>Unity Hair Studio - About</title>
+
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+
 </head>
 
 <body>
-content
+<div class="title-agileits"><h2 class="w3l-agile">About Our Salon</h2></div>
+
+ <!-- screen size for debug -->
+ <span id="mediaSize"></span>
+
+	<script type="text/javascript">
+		var widthOutput = document.querySelector('#mediaSize');
+		
+		function showScreenWidth() { 
+			widthOutput.textContent = window.innerWidth;
+		}
+		
+		window.onresize = showScreenWidth;
+		window.onload = showScreenWidth;
+	
+	</script> 
 </body>
 </html>
+
+<!--
+ <div class="about-wthree">
+	<div class="container">
+	   <div class="ab-w3l-spa">
+		<div class="title-agileits">
+                        <h2 class="w3l-agile">About Our Salon</h2> 
+	          </div>
+		<p>Here at Unity Hair Studio, we are a group of talented stylists who are ready to make you look your best. Looking to try out something new? We can help! Want to upkeep the cut you already have? No problem. Voted Loveland's best hair salon, we're confident you'll leave with a style or cut you'll love, gauranteed!</p>
+		<img src="images/interior/salon color room.jpg" class="img-responsive" alt="Welcoming Waiting Room">
+		</div>
+		<div class="clearfix"> </div>
+    </div>
+</div>
+-->

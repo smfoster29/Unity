@@ -1,11 +1,9 @@
 
 **musts**
--fix agileit bar/line
+-center drop down menu
+-fix drop down services/products menu clickability
 -proof read all content
 -change contact form to email Jules
--remove "other" from drop down options
--center drop down menu
--fix drop down menu clickability
 
 **wants**
 -fix spacing on homepage
@@ -24,3 +22,5 @@
 -fill gallery x
 -add pictures x
 -fix collapsed menu drop down unclickable on mobile x
+-remove "other" from drop down options x
+-fix agileit bar/line x
