@@ -427,6 +427,16 @@ a.active {
   color: transparent;
   z-index: 3;
 }
+.logo-small {
+  position: relative;
+  display: none;
+  min-width: 65px;
+  min-height: 44px;
+  overflow: hidden;
+  white-space: nowrap;
+  color: transparent;
+  z-index: 3;
+}
 .cd-search-trigger, .cd-nav-trigger {
 	position: relative;
 	display: block;
@@ -3294,6 +3304,9 @@ section.social ul li {
 		padding-right: 0px;
 	}
 
+	.inner-header-agile {
+		padding-right: 0;
+	}
 	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
 		background:rgba(0, 0, 0, 0.88);
 		 z-index: 999!important;
@@ -3320,7 +3333,7 @@ section.social ul li {
 		margin-left: 0;
 		margin-top: 1.7em;
 		margin: 0 !important;
-		    z-index: 9999!important;
+		z-index: 9999!important;
 	}
 	ul.dropdown-menu.multi-column {
 		left: 0;
@@ -3359,6 +3372,16 @@ section.social ul li {
 		background-image: none;
 		border: 1px solid transparent;
 		border-radius: 0px!important;
+	}
+	.logo {
+		display: none;
+	}
+	.logo-small {
+		display: block;
+		right: -15px;
+	}
+	.cd-header-buttons {
+		right: 0px;
 	}
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 		    background-color: #00a4e4!important;

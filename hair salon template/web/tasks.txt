@@ -1,4 +1,3 @@
-
 **musts**
 -center drop down menu
 -fix drop down services/products menu clickability
@@ -15,7 +14,6 @@
 -clicking on "serivice" drop-down opens services (maybe)
 
 
-
 -fix navbar responsiveness x
 -program contact form to actually contact x
 -add back click action on gallery pictures x
@@ -24,3 +22,5 @@
 -fix collapsed menu drop down unclickable on mobile x
 -remove "other" from drop down options x
 -fix agileit bar/line x
+-add zip and colorado to address x
+-add last gallery pic x
