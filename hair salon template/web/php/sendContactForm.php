@@ -6,7 +6,7 @@ $email=$_POST['email'];
 $phone=$_POST['phone'];
 $userMessage=$_POST['message'];
  
-$to = "foster.sami@gmail.com";
+$to = "unityhairstudioloveland@gmail.com";
 $subject = "Contact Request from " . $name;
 $message = " Name: " . $name . "\r\n Email: " . $email . "\r\n Phone: " . $phone . "\r\n Message: " . $userMessage;
  

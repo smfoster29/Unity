@@ -620,10 +620,13 @@ a.active {
 .contact-top-agileits {
             width: 100%;
     position: absolute;
-    top: 17.5%;
+    top: 17.25%;
     border: 1px solid rgba(255, 255, 255, 0.25);
+	background: rgba(17, 17, 17, 0.6);
+	margin-top: 13px;
     border-left: none;
     border-right: none;
+	border-top: none;
 }
 .contact-top-agileits.two {
     top: 26%;
@@ -649,7 +652,7 @@ a.active {
     text-transform: uppercase;
 }
 .con-w3l-info p{
-       font-size: 0.9em;
+       font-size: 0.7em;
     line-height: 1.9em;
     color: #fff;
     letter-spacing: 3px;
@@ -909,6 +912,9 @@ ul.our-experts li{
 @media (max-width:600px){
 	ul.our-experts li{
 		max-width: 100%;
+	}
+	.contact-top-agileits {
+		margin-top: 0;
 	}
 }
 /* //our-experts */
@@ -2684,7 +2690,9 @@ section.social ul li {
 /*-- /responsive --*/
 
 @media (max-width:1440px){
-	
+	.contact-top-agileits {
+		top: 19.25%;
+	}
 	.baner-info {
 	    padding-top: 22em;
 		margin: 0 auto;
@@ -2747,7 +2755,7 @@ section.social ul li {
 	.contact-top-agileits {
 		width: 100%;
 		position: absolute;
-		top: 21%;
+		top: 20.75%;
 	}
 	/*.cd-header-buttons {
 		position: absolute;
@@ -2992,7 +3000,7 @@ section.social ul li {
 	.contact-top-agileits {
 		width: 100%;
 		position: absolute;
-		top: 23.5%;
+		top: 24%;
 	}
 	.blog-left-right-top h4 {
 		font-size: 1.3em;
@@ -3201,6 +3209,9 @@ section.social ul li {
 }
 
 @media (max-width:800px){
+	.con-w3l-info p{
+       font-size: 0.7em;
+	}
 	.navbar-default .navbar-nav > li > a {
       font-size: 1em;
 	}
@@ -3296,6 +3307,9 @@ section.social ul li {
 		position: absolute;
 		top: 16px;
 		left: 217px;
+	}
+	.contact-top-agileits {
+		top: 23.5%;
 	}
 	ul.nav.navbar-nav {
 		margin: 0;
@@ -3560,7 +3574,7 @@ section.social ul li {
 	.contact-top-agileits {
 		width: 100%;
 		position: absolute;
-		top: 27%;
+		top: 27.25%;
 	}
 	h3.w3l-agile:before, h2.w3l-agile:before {
 		content: '';
@@ -3661,6 +3675,20 @@ section.social ul li {
 		margin: 1% 0%;
 	}
 }
+@media (max-width:527px)
+{
+	.contact-top-agileits {
+		width: 100%;
+		position: absolute;
+		top: 25%;
+	}
+}
+@media (max-width:489px)
+{
+	.contact-top-agileits {
+		top: 24%;
+	}
+}
 @media (max-width:480px){
   .navbar-header h1 {
     font-size: 1.0em;
@@ -3682,7 +3710,7 @@ section.social ul li {
 	.contact-top-agileits {
 		width: 100%;
 		position: absolute;
-		top: 30%;
+		top: 32.5%;
 	}
 	.con-w3l-info p {
 		font-size: 0.73em;
@@ -3780,6 +3808,12 @@ section.social ul li {
 		padding-bottom: .5em;
 	}
 }
+@media (max-width:447px)
+{
+	.contact-top-agileits {
+		top: 30%;
+	}
+}
 @media (max-width:414px){
   .navbar-header h1 {
     font-size: 0.9em;
@@ -3791,6 +3825,9 @@ section.social ul li {
   }
 	.title-agileits h3, .title-agileits h2 {
 		font-size: 1.5em;
+	}
+	.contact-top-agileits {
+		top: 34%;
 	}
 	/*.w3ls-info-about h4 {
 		font-size: 1em;
@@ -3946,6 +3983,11 @@ section.social ul li {
 		min-height: 111px;
 	}
 }
+@media (max-width:389px){
+	.contact-top-agileits {
+		top: 32.5%;
+	}
+}
 @media (max-width:384px){
   .navbar-header h1 {
     font-size: 0.9em;
@@ -3956,6 +3998,9 @@ section.social ul li {
     position: absolute;
     top: 16px;
     left: 140px;
+  }
+  .baner-info h3 {
+	  background: none;
   }
 	.w3l_about_bottom_left {
 		min-height: 269px;
@@ -3979,7 +4024,7 @@ section.social ul li {
 	.contact-top-agileits {
 		width: 100%;
 		position: absolute;
-		top: 22%;
+		top: 22.5%;
 	}
 	.contact-grid:nth-child(3) {
 		border:none!important;
@@ -3995,7 +4040,7 @@ section.social ul li {
 		font-size: 0.8em;
 	}
 	.baner-info {
-		padding-top: 13.5em;
+		padding-top: 14.8em;
 		margin: 0 auto;
 	}
 	.title-agileits h3:after, .title-agileits h2:after {
@@ -4062,6 +4107,12 @@ section.social ul li {
 		padding: 0px;
 	}
 }
+@media (max-width:380px)
+{
+	.contact-top-agileits {
+		top: 21%;
+	}
+}
 @media (max-width:375px){
 
 .navbar-header h1 {
@@ -4102,6 +4153,9 @@ section.social ul li {
     text-align: left;
     /*width: 75%;*/
   }
+	.contact-top-agileits {
+		top: 22.5%;
+	}
 	.title-agileits h3:after, .title-agileits h2:after {
 		height: 5px;
 		width: 11%;
@@ -4111,13 +4165,14 @@ section.social ul li {
 	}
 	.navbar-header i.fa.fa-scissors {
 		position: absolute;
-		top: 8px;
-		left: 100px;
+		top: 18px;
+		left: 125px;
 	}
 	.baner-info h3 {
 		font-size: 1.2em;
 		letter-spacing: 2px;
 		padding: 7px 0;
+		margin-top: 5px;
 	}
 	.baner-info h4 {
 		font-size: 0.8em;
@@ -4140,6 +4195,12 @@ section.social ul li {
 	}
 	.connect-agileits.newsletter p {
     font-size: 0.8em;
+	}
+}
+@media (max-width:312px)
+{
+	.contact-top-agileits {
+		top: 21%;
 	}
 }
 /*-- //responsive --*/

@@ -1,10 +1,8 @@
 **musts**
--proof read all content
--change contact form to email Jules
+-buy w3c template license and take out references to w3c
+-go live!
 
 **wants**
--open up phone call and maps on click of header info
--make header address/appointments/call us more visible
 
 **low wants**
 -fix spacing on homepage
@@ -22,3 +20,7 @@
 -center drop down menu x
 -fix drop down services/products menu clickability x
 -fix responsiveness of footer x
+-proof read all content x
+-open up phone call and maps on click of header info x
+-make header address/appointments/call us more visible x
+-change contact form to email Jules x
