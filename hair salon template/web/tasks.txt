@@ -1,18 +1,13 @@
 **musts**
--center drop down menu
--fix drop down services/products menu clickability
 -proof read all content
 -change contact form to email Jules
 
 **wants**
--fix spacing on homepage
 -open up phone call and maps on click of header info
--fix responsiveness of footer
 -make header address/appointments/call us more visible
 
 **low wants**
--clicking on "serivice" drop-down opens services (maybe)
-
+-fix spacing on homepage
 
 -fix navbar responsiveness x
 -program contact form to actually contact x
@@ -24,3 +19,6 @@
 -fix agileit bar/line x
 -add zip and colorado to address x
 -add last gallery pic x
+-center drop down menu x
+-fix drop down services/products menu clickability x
+-fix responsiveness of footer x

@@ -199,7 +199,7 @@ ul.dropdown-menu.agileinfo {
     padding: 0;
     border: none;
     position: absolute;
-    top: 45px;
+    top: 40px;
     left: 1px;
 	min-width: 165px;
 }
@@ -2821,6 +2821,9 @@ section.social ul li {
     right: auto;
     left: -4%;
   }
+  ul.dropdown-menu.agileinfo {
+	top: 36px;
+  }
 }
 @media (max-width:1199px)
 {
@@ -2839,6 +2842,21 @@ section.social ul li {
 	font-size: 1.3em;
 	padding: 0 2px;
 }
+.w3ls_footer_grid_left {
+		float: left;
+		width: 100%;
+		padding: 20px 20px;
+	}
+	.w3ls_footer_grid_left:nth-child(2) {
+		margin: 10px 0px;
+	}
+	.wthree_agile_footer {
+		padding: 3em 0 0em 0;
+	}
+	.w3agile_footer_copy {
+		padding: 1em 0 3em 0;
+		margin-top: 2em;
+	}
   /*.navbar-nav > li > a {
 	font-size:0.8em;
 	letter-spacing: 1px;
@@ -3079,21 +3097,6 @@ section.social ul li {
 		left: 3px;
 		min-width: 152px;
 	}
-	.w3ls_footer_grid_left {
-		float: left;
-		width: 100%;
-		padding: 20px 20px;
-	}
-	.w3ls_footer_grid_left:nth-child(2) {
-		margin: 10px 0px;
-	}
-	.wthree_agile_footer {
-		padding: 3em 0 0em 0;
-	}
-	.w3agile_footer_copy {
-		padding: 1em 0 3em 0;
-		margin-top: 2em;
-	}
 	.gallery-grid {
 		float: left;
 		width: 50%;
@@ -3139,7 +3142,6 @@ section.social ul li {
 		padding: 0;
 		border: none;
 		position: absolute;
-		top: 39px;
 		left: 1px;
 		min-width: 129px;
 	}
@@ -3178,6 +3180,9 @@ section.social ul li {
 	.navbar-nav > li {
 		font-size: 1.0em;
 	}
+	ul.dropdown-menu.agileinfo {
+		top: 34px;
+	}
 }
 
 @media (max-width: 820px){}
@@ -3199,10 +3204,10 @@ section.social ul li {
 	.navbar-default .navbar-nav > li > a {
       font-size: 1em;
 	}
-	ul.nav.navbar-nav{
+	ul.nav.navbar-nav { 
     margin-left: 2em;
     margin-top: 2em;
-  }
+    }
   .navbar-nav > li > a {
     padding: .7em 0.4em;
     font-size: 2em;
@@ -3216,8 +3221,8 @@ section.social ul li {
 		padding: 0 1em;
 	}*/
 	.con-w3l-info p {
-		font-size: 0.85em;
-		letter-spacing: 1px;
+		font-size: 0.77em;
+		letter-spacing: 0px;
 	}
 	.agile_short_dropdown {
 		position: absolute;
@@ -3497,11 +3502,6 @@ section.social ul li {
 	}
 }
 @media (max-width:640px){
-	.con-w3l-info p {
-		font-size: 0.77em;
-		letter-spacing: 1px;
-	}
-
 	/*.w3ls-info-about {
 		position: absolute;
 		left: -79%;
@@ -3542,7 +3542,7 @@ section.social ul li {
     left: 217px;
   }
 	.con-w3l-info h4 {
-		font-size: 1em;
+		font-size: 1em
 		letter-spacing: 1px;
 		margin-bottom: 0.3em;
 	}
