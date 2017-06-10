@@ -2504,10 +2504,11 @@ ul.top-links li a i.fa:hover {
 	color:#00a4e4;
 }
 .w3ls_footer_grid_left {
-       background: rgba(8, 8, 8, 0.83);
+    background: rgba(8, 8, 8, 0.83);
     float: left;
     width: 32%;
     padding: 30px 20px;
+	margin: 5px;
 }
 .w3ls_footer_grid_left:nth-child(2) {
     margin: 0 20px;

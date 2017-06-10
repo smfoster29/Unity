@@ -1,12 +1,19 @@
+**next steps**
+-blank out sandbox site with marketing page
+-start looking at wordpress framework
+-start learning javascript and php formally
+-find next customer?
+
 **musts**
 -buy w3c template license and take out references to w3c
--go live!
 
 **wants**
+-gallery images unalign from 415px-991px
 
 **low wants**
 -fix spacing on homepage
 
+-go live!!! x
 -fix navbar responsiveness x
 -program contact form to actually contact x
 -add back click action on gallery pictures x
